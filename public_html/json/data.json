@@ -1,0 +1,164 @@
+{
+  "skolor": [
+    {
+      "namn": "Berzeliusskolan",
+      "stub": "berzelius",
+      "typ": "Kommunal skola",
+      "program": [
+        {
+          "namn": "Naturvetenskapsprogrammet",
+          "inriktningar": [
+            "Naturvetenskap",
+            "Naturvetenskap och samhälle"
+          ]
+        },
+        {
+          "namn": "Teknikprogrammet",
+          "inriktningar": [
+            "Informations- och medieteknik",
+            "Teknikvetenskap",
+            "Design och produktutveckling",
+            "Produktionsteknik",
+            "Samhällsbyggande och miljö"
+          ]
+        }
+      ],
+      "adress": "Gustav Adolfsgatan 25, 58303 Linköping",
+      "telefon": "013 - 20 74 00",
+      "epost": "berzeliusskolan@linkoping.se",
+      "www": "www.linkoping.se/berzelius",
+      "enhetschef": "Magnus Johansson",
+      "rektorer": "Mattias Dahlgren",
+      "syv": "LiseLotte XXX",
+      "bild": "berzelius.jpg"
+    },
+    {
+      "namn": "Realgymnasiet",
+      "stub": "real",
+      "typ": "Friskola",
+      "program": [
+        {
+          "namn": "Naturbruksprogrammet",
+          "inriktningar": [
+            "Djur",
+            "Skog"
+          ]
+        },
+        {
+          "namn": "Teknikprogrammet",
+          "inriktningar": [
+            "Informations- och medieteknik",
+            "Teknikvetenskap"
+          ]
+        }
+      ]
+    },
+    {
+      "namn": "Fria Läroverken",
+      "stub": "fria",
+      "typ": "Friskola",
+      "program": [
+        {
+          "namn": "Naturbruksprogrammet",
+          "inriktningar": [
+            "Djur",
+            "Skog"
+          ]
+        },
+        {
+          "namn": "Teknikprogrammet",
+          "inriktningar": [
+            "Informations- och medieteknik",
+            "Teknikvetenskap"
+          ]
+        }
+      ]
+    }
+  ],
+  "skoltyper": [
+    "Kommunal skola",
+    "Friskola"
+  ],
+  "program": [
+    {
+      "namn": "Teknikprogrammet",
+      "stub": "TE",
+      "beskrivning": "Teknikprogrammet vänder sig till elever som vill arbeta med problemlösning och teknikutveckling. Utbildningen lägger grunden för fortsatta studier i teknik och naturvetenskap på högskolan.",
+      "typ": "studieförberedande",
+      "for-dig-som": "vill ha en...",
+      "du-lar-dig": "att lösa problem...",
+      "tank-pa-1-rubrik": "Studietakten är hög",
+      "tank-pa-1-text": "På Teknikprogrammet är studeitakten högre...",
+      "tank-pa-2-rubrik": "Var nog..",
+      "tank-pa-2-text": "Vid antag...",
+      "huvudrubrik": "Teknik och kreativitet",
+      "ingress": "Du som arbetar...",
+      "stycke1": "Programmet har tre viktiga delar.",
+      "underrubrik1": "Teknikutvecklingsprocessen",
+      "stycke2": "Du ska",
+      "underrubrik2": "Matematik...",
+      "stycke3": "Studierna...",
+      "inriktningar": [
+        {
+          "namn": "Design och produktutveckling",
+          "ingress": "Du får...",
+          "text": "Du lär dig..."
+        },
+        {
+          "namn": "Informations- och medieteknik",
+          "ingress": "Du får...",
+          "text": "Du lär dig..."
+        }
+      ],
+      "huvudbild": "te.jpg",
+      "extrabild": "te2.jpg"
+    },
+    {
+      "namn": "Naturvetenskapsprogrammet",
+      "stub": "NA",
+      "beskrivning": "beksrivning av natur",
+      "typ": "studieförberedande",
+      "inriktningar": [
+        {
+          "namn": "Design och produktutveckling"
+        }
+      ]
+    },
+    {
+      "namn": "Naturbruksprogrammet",
+      "stub": "NB",
+      "beskrivning": "text",
+      "typ": "yrkesförberedande",
+      "inriktningar": [
+        "Design och produktutveckling",
+        "Informations- och medieteknik",
+        "Produktionsteknik",
+        "Samhällsbyggande och miljö",
+        "Teknikvetenskap"
+      ]
+    }
+  ],
+  "aktiviteter": [
+    {
+      "aktivitet": "Hunduppvisning",
+      "anordnare": "Realgymnasiet",
+      "starttid": "10:30",
+      "plats": "Utomhusscenen",
+      "beskrivning": "cwecwecwwecwec wec wecwe cwe"
+    },
+    {
+      "aktivitet": "Vidare till universitetet",
+      "anordnare": "Linköpings Universitet",
+      "starttid": "11:00",
+      "plats": "Verdéfoajen",
+      "beskrivning": "wef wefwe wewegwe wegwegwe weg"
+    }
+  ],
+  "info": {
+    "plats": "Konsert & kongress",
+    "tid": "09.30-14.13",
+    "datum": "8 november 2015",
+    "bild": "hitta.jpg",
+    "": ""
+  }
+}
